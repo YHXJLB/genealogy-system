@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.out
+obj/
+bin/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Executables
+genealogy1
+genealogy2
+
+# Debug
+.gdb_history
